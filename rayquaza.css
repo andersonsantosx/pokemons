@@ -1,0 +1,36 @@
+body { 
+    background-color: white;
+    background-image: url(./pokemons.png/rayquazafundo.png);
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+h1{
+    text-align: center;
+    color: rgb(203, 190, 5);
+}
+p {
+   
+    padding: 18px;
+   background-color: rgba(240, 255, 255, 0.074);
+    margin: auto;
+    max-width: 500px;
+    color: rgb(159, 250, 147);
+}
+div.video {
+background-color: rgba(255, 168, 55, 0);
+padding: 20px;
+position: relative;
+padding-bottom: 5%;
+display: flex;
+justify-content: center;
+}
+::-webkit-scrollbar {
+ width: 0px;
+}
+::-webkit-scrollbar-thumb {
+    width: 0px;
+}
+
+   
+    

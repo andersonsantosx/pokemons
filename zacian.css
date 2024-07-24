@@ -1,0 +1,33 @@
+body { 
+    background-color: white;
+    background-image: url(./pokemons.png/zacianfundo.png);
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+h1{
+    text-align: center;
+    color: rgb(255, 119, 0);
+}
+p {
+    font-size: large;
+    padding: 18px;
+   background-color:rgba(240, 255, 255, 0.255);
+    margin: auto;
+    max-width: 500px;
+    color:rgb(0, 0, 0);
+}
+div.video {
+    background-color: rgba(255, 168, 55, 0);
+    padding: 20px;
+    position: relative;
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: center;
+}
+::-webkit-scrollbar {
+ width: 0px;
+}
+::-webkit-scrollbar-thumb {
+    width: 0px;
+}   
